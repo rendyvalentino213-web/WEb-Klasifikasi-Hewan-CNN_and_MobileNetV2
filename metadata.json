@@ -1,0 +1,8 @@
+{
+  "name": "Klasifikasi Hewan",
+  "description": "Antarmuka web untuk pengenalan 5 kelas hewan (kucing, ayam, kuda, kupu-kupu, gajah) menggunakan model machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
